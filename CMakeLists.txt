@@ -15,3 +15,4 @@ else()
 endif()
 
 add_subdirectory(example)
+add_subdirectory(polygon_facing)
